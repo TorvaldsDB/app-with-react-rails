@@ -55,3 +55,10 @@ gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 
 # https://github.com/reactjs/react-rails#use-with-jbuilder
 gem 'react-rails'
+
+# https://github.com/rspec/rspec
+# https://github.com/rspec/rspec-rails
+# Run against the latest stable release
+group :development, :test do
+  gem 'rspec-rails', '~> 3.8'
+end
