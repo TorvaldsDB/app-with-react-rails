@@ -63,3 +63,5 @@ gem 'react-rails'
 group :development, :test do
   gem 'rspec-rails', '~> 3.8'
 end
+
+gem "simple_calendar", "~> 2.0"
