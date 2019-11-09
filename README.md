@@ -72,3 +72,7 @@ rails s
 ```
 
 visit the `localhost:3000`
+
+## Implement `simple_calendar`
+
+![Calendar example](public/simple_calendar.gif)
